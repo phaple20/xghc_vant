@@ -1,1 +1,0 @@
-import{d as e,_ as c,a as n,e as o}from"./index.62adcc48.js";const s=e({name:"Jdhc",setup(){}});function t(r,a,_,d,p,u){return n(),o("div",null,"jdhc")}const i=c(s,[["render",t],["__file","D:/vue_work/vue3_xghc/src/views/Index/components/jdhc.vue"]]);export{i as default};
